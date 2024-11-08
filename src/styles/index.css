@@ -1,4 +1,29 @@
+.bg-purple {
+    background-color: #8e0aaf;
+}
 
+.card-image {
+    width: 100%;
+    height: 325px;
+    object-fit: cover;
+}
+
+.footer-custom {
+    background-color: #8e0aaf; 
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.btn-purple {
+    background-color: #8e0aaf;
+    border-color: #6f42c1;
+    color: white;
+}
+.btn-purple:hover {
+    background-color: #5a32a3; 
+    border-color: #5a32a3;
+}
 /* 
 
     You can write your own styles here...
